@@ -1,6 +1,6 @@
 
 /* grid css code */
-.container{
+/* .container{
   background-color:#f2f0f9;
   font-size: 18px;
   
@@ -46,7 +46,7 @@ li {
  justify-content:start;
 }
 a {
-  /* text-decoration: none; */
+ 
   color:#58d9e7;
   font-weight: 700;
 }
@@ -128,7 +128,7 @@ span{
   color: #58d9e7;
   font-weight: bold;
   text-decoration: none;
-}
+} */
 
 
 /* formating dates css code */
@@ -151,3 +151,84 @@ span{
  color: #fff;
 font-weight: 680;
   } */
+
+
+
+  /* signup form using regular expressions
+  .App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(135, 135, 249);
+    font-family: sans-serif;
+  }
+  
+  .form-container {
+    width: 380px; 
+    background-color: #f0f0f0;
+    padding: 15px 25px;
+  
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 40px;
+    
+  }
+  
+  form {
+    display: block;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    box-sizing: border-box;
+    height: 40px;
+  }
+  
+  button{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    width: 380px;
+    margin-top: 10px;
+    border-radius: 7px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+   /* h1{
+    margin-left: 10px;
+    margin-bottom:630px;
+    position: absolute;
+    color: white;
+  }  */
+  /* .title{
+    
+    display: flex;
+  justify-content: flex-end; 
+  align-items: flex-end; 
+    margin-bottom: 10px;
+    color: red;
+    
+  }  */
+body{
+  background-color:rgb(197, 250, 232);
+}
+.user{
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  margin-top: 18%;
+}
